@@ -15,10 +15,10 @@
 ---
 
 ### 🌟 About Me
-- 🎨 Passionate about **UI/UX design** and creating **modern, eye-catching landing pages**.  
-- 💻 Main stack: **HTML, CSS, JavaScript, Angular**.  
-- ⚡ I focus on **performance + aesthetics** to make every project stand out.  
-- 📈 Always looking to **enhance user experience** with interactive and responsive designs.  
+- 💡 Passionate about building practical and efficient web solutions that solve real-world problems.
+- 💻 Main stack: HTML, CSS, JavaScript, NestJS, and Angular.
+- 📈 Always looking to **enhance user experience** with interactive and responsive designs.
+- 🚀 I enjoy turning complex ideas into functional, high-impact products through clear logic and solid code.
 
 ---
 
