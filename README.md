@@ -9,14 +9,14 @@
 </h1>
 
 <h3 align="center">
-  🚀 Full-Stack Developer | Landing Page Design Specialist
+  🚀 Software Engineer | Full-Stack & AI-Powered Solutions
 </h3>
 
 ---
 
 ### 👋 About Me
 
-I'm a **Systems Engineering student and Full-Stack Developer** focused on building scalable, maintainable, and user-centered web applications.
+I'm a **B.Sc. in Systems Engineering (expected graduation: 2026) and Full-Stack Developer** focused on building scalable, maintainable, and user-centered web applications.
 
 - 🧠 Strong foundations in **software engineering principles**, clean code, and system design.
 - 💻 Main stack: **TypeScript, Angular, NestJS, Node.js**, SQL & NoSQL databases.
@@ -25,6 +25,15 @@ I'm a **Systems Engineering student and Full-Stack Developer** focused on buildi
 - 🚀 I enjoy turning complex problems into clear, efficient, and high-impact solutions.
 
 Currently improving my skills in **system architecture, AI-assisted development, and modern backend design**.
+
+---
+
+### 🛠️ Currently Learning
+- Software Architecture & Design Patterns
+- AI integration in production systems
+- Backend scalability and clean architecture
+- System design fundamentals
+- advanced animations using GSAP
 
 ---
 
