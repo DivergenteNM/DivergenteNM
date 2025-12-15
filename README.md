@@ -14,13 +14,20 @@
 
 ---
 
-### 🌟 About Me
-- 💡 Passionate about building practical and efficient web solutions that solve real-world problems.
-- 💻 Main stack: HTML, CSS, JavaScript, NestJS, and Angular.
-- 📈 Always looking to **enhance user experience** with interactive and responsive designs.
-- 🚀 I enjoy turning complex ideas into functional, high-impact products through clear logic and solid code.
+### 👋 About Me
+
+I'm a **Systems Engineering student and Full-Stack Developer** focused on building scalable, maintainable, and user-centered web applications.
+
+- 🧠 Strong foundations in **software engineering principles**, clean code, and system design.
+- 💻 Main stack: **TypeScript, Angular, NestJS, Node.js**, SQL & NoSQL databases.
+- 🤖 Experience integrating **AI solutions** (LLMs, chatbots, embeddings, automation) into real-world applications.
+- 🏗️ Interested in **software architecture, design patterns, and backend scalability**.
+- 🚀 I enjoy turning complex problems into clear, efficient, and high-impact solutions.
+
+Currently improving my skills in **system architecture, AI-assisted development, and modern backend design**.
 
 ---
+
 
 ### 🛠️ Tech Stack
 
