@@ -5,30 +5,30 @@
 
 <!-- Animated Title -->
 <h1 align="center">
-  Hi, I'm <span style="color:#4db6ac;">Nicolás</span> 👋
+  Hi, I'm <span style="color:#4db6ac;">Nicolás</span> 
 </h1>
 
 <h3 align="center">
-  🚀 Software Engineer | Full-Stack & AI-Powered Solutions
+   Software Engineer | Full-Stack & AI-Powered Solutions
 </h3>
 
 ---
 
-### 👋 About Me
+###  About Me
 
 I'm a **B.Sc. in Systems Engineering (expected graduation: 2026) and Full-Stack Developer** focused on building scalable, maintainable, and user-centered web applications.
 
-- 🧠 Strong foundations in **software engineering principles**, clean code, and system design.
-- 💻 Main stack: **TypeScript, Angular, NestJS, Node.js**, SQL & NoSQL databases.
-- 🤖 Experience integrating **AI solutions** (LLMs, chatbots, embeddings, automation) into real-world applications.
-- 🏗️ Interested in **software architecture, design patterns, and backend scalability**.
-- 🚀 I enjoy turning complex problems into clear, efficient, and high-impact solutions.
+-  Strong foundations in **software engineering principles**, clean code, and system design.
+-  Main stack: **TypeScript, Angular, NestJS, Node.js**, SQL & NoSQL databases.
+-  Experience integrating **AI solutions** (LLMs, chatbots, embeddings, automation) into real-world applications.
+-  Interested in **software architecture, design patterns, and backend scalability**.
+-  I enjoy turning complex problems into clear, efficient, and high-impact solutions.
 
 Currently improving my skills in **system architecture, AI-assisted development, and modern backend design**.
 
 ---
 
-### 🛠️ Currently Learning
+###  Currently Learning
 - Software Architecture & Design Patterns
 - AI integration in production systems
 - Backend scalability and clean architecture
@@ -38,7 +38,7 @@ Currently improving my skills in **system architecture, AI-assisted development,
 ---
 
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="center">
   <!-- Technology Icons -->
@@ -54,7 +54,7 @@ Currently improving my skills in **system architecture, AI-assisted development,
 
 ---
 
-### ✨ Featured Projects
+###  Featured Projects
 
 | Project | Description | Demo |
 |---------|-------------|------|
